@@ -1,0 +1,9 @@
+.register button {
+    font-size: 10px;
+    color: black;
+}
+
+[type="button"] {
+    font-size: 30px !important;
+    color: #b67c10 !important;
+}
